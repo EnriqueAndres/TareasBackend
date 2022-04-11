@@ -1,0 +1,20 @@
+[
+    {
+      "title": "calculadora",
+      "price": 232,
+      "foto": "https://www.google.cl/",
+      "id": 1
+    },
+    {
+      "title": "cuaderno",
+      "price": 123,
+      "foto": "https://www.google.cl/",
+      "id": 2
+    },
+    {
+      "title": "lapiz",
+      "price": 50,
+      "foto": "https://www.google.cl/",
+      "id": 3
+    }
+  ]
